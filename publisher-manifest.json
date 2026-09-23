@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4d9945e5ef878e42bfb00eb6",
+  "owner": "cyhttgr",
+  "repo": "page-2894f2f8ec35ed1eb057a979",
+  "title": "云画",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2894f2f8ec35ed1eb057a979",
+      "a": "云画",
+      "b": "2027官方最新地址导航",
+      "entity": "云画",
+      "brand": "云画",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "22f755afeae8e2b3b598e402f8fd3de6925238b3abf9f78b3b9d9956d32d7412",
+      "content": {
+        "primary_entity": "云画",
+        "keyword1": "云画",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备同时在线。旗舰版带 IPLC 专线游戏加速优化，团队版含 VIP 专属高带宽节点与定制路由。按年付可享更优价格，配合客户端订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "云画三档套餐任选",
+          "AI_HERO_INTRO": "云画把套餐、设备数、流量周期整理得清晰易懂，方便按日常上网、流媒体和游戏加速需求快速比对，轻松选出适合长期使用的档位。",
+          "AI_VISUAL_TITLE": "云画加速套餐一览",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度比对套餐，按使用习惯选择更合适。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TITLE_1": "按流量档位选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TEXT_2": "3 台、5 台或 20 台同时在线，按手机、电脑与平板总数决定。",
+          "AI_FEATURE_TITLE_3": "按线路需求选择",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线并优化游戏加速，团队版提供 VIP 高带宽节点。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，再导入订阅信息即可完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年，适合不同设备数与流量需求的用户。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数和线路需求，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "核对设备数量上限与系统类型，确保所选套餐支持当前使用的终端。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅信息，完成后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_CLOSING_TEXT": "按流量与设备数对比云画三档套餐，选择适合的档位并完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "云画提供三档套餐：基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。年付分别 ¥150、¥350、¥850，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。按家中常用设备数量选择即可。",
+          "AI_FAQ_ANSWER_3": "在云画客户端或第三方支持订阅导入的工具中，粘贴订阅链接后更新节点列表即可使用。具体步骤参照对应客户端文档。",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。日常看视频、浏览网页选基础版即可，多设备高流量场景可选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持。团队版进一步提供 VIP 高带宽节点、企业定制路由和专属客户经理。",
+          "AI_FAQ_QUESTION_1": "云画有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "各套餐支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "每月流量够用吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "skihbhg.cn",
+    "host": "skihbhg.cn"
+  },
+  "file_hashes": {
+    "index.html": "d3aed5a90e5d3337b3e72fb0a462e72f4d0cfe3b78393b601c9c483b7fad750d",
+    "sitemap.xml": "b6ac0ad87613963d94fc8ade4da8e5e029e664f54cf0c5236f3f8a7ce2de22ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cfc6dfa9fbdd5d61ed20ee1337eb486d8e30805e25d8608511ec698aca2d571a",
+    "robots.txt": "60af27eb00693aa11ab4f0b400b0c9010ea581e81c88e35d6f6fe3395616d67a",
+    "2e059aa45e7768b9a0790ede26d0c16e.txt": "ad0afd4022e386aa9b961fe9eb9d81de3c56b7fe1b0ff3ae06e3c2f6aee26c73"
+  },
+  "revision": "5aac5b4d94ecb542161e948b3c6052ae78c0b9741f7aa78afc17df970b57fbb5"
+}
